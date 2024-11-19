@@ -1,0 +1,46 @@
+O EF(Entity Framework) é um framework ORM(Object-Relational Mapping) criado para facilitar a integração com o banco de dados, mapeando tabelas e gerando comandos SQL de forma automática.
+
+CRUD -> Create(Insert), Read(Select), Update(Update), Delete(Delete). Operações mais comuns usadas no banco de dados.
+
+
+O EF vai traduzir as tabelas em C# em comandos no banco de dados de forma automatiza. 
+Se voce criar uma class no C#, o EF cria uma tabela para você no banco de dados.
+Ele gerencia a comunicação do codigo com o banco de dados poupando muito tempo.
+
+
+No terminal do VScode use:
+dotnet tool install --global dotnet-ef( so precisa ser instalada uma vez na máquina)
+
+Tambem use também:
+dotnet add package Microsoft.EntityFrameworkCore.Design(Essa precisa se instalada a cada novo projeto)
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer(Essa precisa se instalada a cada novo projeto)
+
+
+No app.setting:
+"ConnectionStrings":
+  {
+    "ConexaoPadrao": "Server=localhost\\sqlexpress;Initial Catalog=Agenda; Integrated Security=True"
+  }
+*/
+
+Depois de configurado, escreva no terminal:
+dotnet-ef migrations add CriacaoTabelaContato
+
+agora para conectar ao db:
+dotnet-ef database update
+
+tive que mudar o connectionStrings para:
+"ConnectionStrings": {
+  "ConexaoPadrao": "Server=localhost\\sqlexpress;Initial Catalog=Agenda;Integrated Security=True;TrustServerCertificate=True;"
+}
+
+
+
+Verbos HTTP
+Post -> Create
+Get  -> Read (obter informações)
+PUT  -> UpdateReplace (Atualizar algo existente por novas informações)
+PATCH-> UpdateModify  (Atualizações de informações completas(ex tem que passa contato,nome e telefone so para atualizar um))
+DELETE-> DELETE
+
+

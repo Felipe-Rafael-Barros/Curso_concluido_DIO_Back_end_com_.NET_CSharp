@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\bin\Debug\net8.0\1. Array e Listas em C#.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\bin\Debug\net8.0\1. Array e Listas em C#.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\bin\Debug\net8.0\1. Array e Listas em C#.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\bin\Debug\net8.0\1. Array e Listas em C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\bin\Debug\net8.0\1. Array e Listas em C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\refint\1. Array e Listas em C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\1. Array e Listas em C#.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\6. Array e Listas em C#\1. Array e Listas em C#\obj\Debug\net8.0\ref\1. Array e Listas em C#.dll

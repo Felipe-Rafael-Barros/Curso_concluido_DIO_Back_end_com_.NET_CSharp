@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\bin\Debug\net8.0\2. Manipulando Valores com C#.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\bin\Debug\net8.0\2. Manipulando Valores com C#.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\bin\Debug\net8.0\2. Manipulando Valores com C#.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\bin\Debug\net8.0\2. Manipulando Valores com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\bin\Debug\net8.0\2. Manipulando Valores com C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\refint\2. Manipulando Valores com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\2. Manipulando Valores com C#.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\2. Manipulando Valores com C#\obj\Debug\net8.0\ref\2. Manipulando Valores com C#.dll

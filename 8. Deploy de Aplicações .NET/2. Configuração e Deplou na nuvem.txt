@@ -1,0 +1,21 @@
+Abordou IaaS, PaaS e DbaaS.
+IaaS (depende de uma pessoa para atualizar vesões e etc) não usado no curso.
+
+PaaS (plataforma para serviços)
+
+
+Algumas formas de publcias (Fazer o deploy)
+VS (usaremos)
+Portal Azure
+Powershell
+Azure Cli
+
+
+
+Deploy com VS:
+No projeto
+Publish
+Azure
+Linux
+configure tudo
+App service

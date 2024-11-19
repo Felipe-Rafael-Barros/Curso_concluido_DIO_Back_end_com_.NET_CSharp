@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\bin\Debug\net8.0\Aula 1.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\bin\Debug\net8.0\Aula 1.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\bin\Debug\net8.0\Aula 1.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\bin\Debug\net8.0\Aula 1.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\bin\Debug\net8.0\Aula 1.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\refint\Aula 1.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\Aula 1.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1.Sintaxe Básica com .NET C#\Aula 1\obj\Debug\net8.0\ref\Aula 1.dll

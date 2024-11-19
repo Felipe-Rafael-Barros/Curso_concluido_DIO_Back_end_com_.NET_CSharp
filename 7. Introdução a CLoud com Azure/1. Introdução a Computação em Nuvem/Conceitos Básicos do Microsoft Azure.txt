@@ -1,0 +1,166 @@
+# Conceito de Computação em Nuvem
+
+## O que é Computação em Nuvem?
+- A computação em nuvem é o fornecimento de serviços de computação pela internet, permitindo inovações mais rápidas, recursos flexíveis e economias de escala.
+
+## Responsabilidade Compartilhada
+- No modelo de nuvem, a responsabilidade pela segurança e gerenciamento é dividida entre o provedor de nuvem e o cliente, com o provedor garantindo a segurança da infraestrutura e o cliente sendo responsável pela segurança dos dados e aplicativos.
+
+## Modelos de Nuvem
+
+### 1) Nuvem Privada
+- **Definição**: Ambiente dedicado 100% à sua empresa, geralmente em um data center interno.
+- **Acesso**: Restrito, acessível apenas dentro da organização.
+
+### 2) Nuvem Pública
+- **Definição**: Serviços de computação fornecidos ao público em geral, como o Microsoft Azure.
+- **Acesso**: Disponível globalmente, acessível de qualquer local com internet.
+
+### 3) Nuvem Híbrida
+- **Definição**: Combina infraestrutura privada e pública, permitindo que o sistema privado se comunique com o sistema público.
+- **Acesso**: Flexível, possibilitando uma integração entre sistemas internos e externos.
+
+## Custo de Capital (CapEx) versus Custo Operacional (OpEx)
+
+### Comparação dos Modelos de Nuvem
+
+- **Nuvem Pública**:
+  - Nenhuma despesa de capital (CapEx) para escalabilidade.
+  - Aplicativos podem ser provisionados e desprovisionados rapidamente.
+  - Pagamento apenas pelos recursos utilizados.
+
+- **Nuvem Privada**:
+  - Controle total sobre recursos e segurança.
+  - A organização é responsável pela manutenção e atualização do hardware.
+
+- **Nuvem Híbrida**:
+  - Flexibilidade para escolher onde executar os aplicativos.
+  - Controle sobre segurança, conformidade e requisitos legais.
+
+### CapEx e OpEx
+
+- **Despesas de Capital (CapEx)**: Investimento inicial em infraestrutura física. O valor do CapEx é amortizado ao longo do tempo.
+- **Despesas Operacionais (OpEx)**: Pagamento por produtos e serviços conforme necessário, com cobrança baseada no uso.
+
+## Modelo Baseado em Consumo
+- Os provedores de nuvem operam em um modelo baseado no consumo, onde os usuários pagam apenas pelos recursos que utilizam.
+  - **Benefícios**:
+    - Melhor previsão de custos.
+    - Preços claros para recursos e serviços individuais.
+    - Cobrança feita com base no uso real.
+
+
+
+
+Criando conta no Azure(ezuri), site:
+https://azure.microsoft.com/pt-br
+https://azure.microsoft.com/pt-br/pricing/purchase-options/azure-account/
+
+
+
+Conteitos de Nuvem
+
+# Benefícios da Nuvem
+
+## 1) Alta Disponibilidade
+- **Descrição**: Garante que os serviços e aplicativos permaneçam acessíveis, mesmo diante de falhas ou eventos externos.
+- **Benefícios**: Reduz o risco de interrupções ao distribuir recursos por várias zonas de disponibilidade.
+- **Exemplo**: Se um servidor falhar, o tráfego pode ser redirecionado automaticamente para outro servidor, mantendo a operação ininterrupta.
+
+## 2) Escalabilidade
+- **Descrição**: Capacidade de ajustar recursos de forma dinâmica para atender à demanda.
+- **Tipos**:
+  - **Escala Vertical**: Aumenta a capacidade de uma única máquina (ex.: mais RAM ou CPU).
+  - **Escala Horizontal**: Adiciona mais máquinas para distribuir a carga.
+- **Benefícios**: Paga-se apenas pelos recursos utilizados, ajustando custos conforme necessário.
+- **Exemplo**: Durante uma campanha, um e-commerce pode escalar seus servidores para lidar com o tráfego, reduzindo após a campanha.
+
+## 3) Elasticidade
+- **Descrição**: Capacidade de expandir ou reduzir automaticamente os recursos conforme a demanda.
+- **Funcionamento**: Expande recursos em caso de aumento de demanda e reduz automaticamente em caso de queda.
+- **Benefícios**: Evita desperdício de recursos e custos durante períodos de baixa demanda.
+- **Exemplo**: Após uma promoção, a nuvem ajusta automaticamente a quantidade de recursos, economizando custos.
+
+## 4) Confiabilidade
+- **Descrição**: Consistência e qualidade dos serviços, garantindo que atendam às expectativas dos usuários.
+- **Benefícios**: Melhora a experiência do usuário e aumenta a confiança nos serviços.
+- **Exemplo**: Sistemas de backup garantem que dados e serviços estejam sempre disponíveis, mesmo em caso de falhas.
+
+## 5) Previsibilidade
+- **Descrição**: Previsibilidade operacional e financeira, com controle de custos e disponibilidade de recursos.
+- **Benefícios**: Facilita o planejamento financeiro e de recursos.
+- **Exemplo**: Planos de precificação previsíveis permitem o cálculo de custos antecipadamente para melhor gestão financeira.
+
+## 6) Segurança
+- **Descrição**: Controle avançado de autenticação, criptografia, monitoramento e detecção de ameaças.
+- **Benefícios**: Protege contra ameaças externas e acessos internos não autorizados.
+- **Exemplo**: Criptografia de dados e monitoramento em tempo real ajudam a proteger informações sensíveis.
+
+## 7) Governança
+- **Descrição**: Controle e gerenciamento de como os recursos de nuvem são utilizados, garantindo conformidade.
+- **Benefícios**: Organiza o uso de recursos, mantendo conformidade com regulamentações.
+- **Exemplo**: Políticas de acesso e restrições de uso evitam gastos desnecessários e melhoram a segurança.
+
+## 8) Gerenciabilidade
+- **Descrição**: Capacidade de monitorar e manter os recursos de nuvem de forma eficiente.
+- **Benefícios**: Facilita o acompanhamento do desempenho e permite a automação de tarefas de manutenção.
+- **Exemplo**: Ferramentas de gerenciamento permitem monitoramento em tempo real e automação de otimizações.
+
+
+IaaS, PaaS e SaaS na Azure
+
+# Modelos de Serviço em Nuvem na Azure
+
+## 1) IaaS (Infrastructure as a Service)
+- **Descrição**: A infraestrutura básica de TI é fornecida como um serviço, incluindo máquinas virtuais, armazenamento e redes.
+- **Responsabilidade do Usuário**: Configurar e gerenciar o sistema operacional, o middleware (como bancos de dados) e os aplicativos. A Azure cuida da infraestrutura física.
+- **Quando Usar**: Ideal para empresas que precisam de controle total sobre o ambiente, como para hospedar sistemas personalizados ou sites com configurações específicas.
+- **Exemplo na Azure**: Criar uma **máquina virtual** na Azure, onde você define o sistema operacional e os softwares, enquanto a Azure mantém os data centers e a infraestrutura subjacente.
+
+## 2) PaaS (Platform as a Service)
+- **Descrição**: Uma plataforma completa para desenvolvimento, onde os desenvolvedores podem criar, testar e implantar aplicativos sem se preocupar com a infraestrutura.
+- **Responsabilidade do Usuário**: Gerenciar apenas os aplicativos e os dados, enquanto a Azure cuida do sistema operacional, segurança e manutenção da plataforma.
+- **Quando Usar**: Indicado para desenvolvedores focados na criação de aplicativos, sem precisar gerenciar o sistema operacional ou a infraestrutura.
+- **Exemplo na Azure**: **Azure App Service**, onde os desenvolvedores podem implantar seus aplicativos diretamente na Azure sem se preocupar com a manutenção do servidor ou segurança.
+
+## 3) SaaS (Software as a Service)
+- **Descrição**: O software é fornecido como um serviço completo pela Azure e é acessível pela internet, sem necessidade de instalação ou manutenção pelo usuário.
+- **Responsabilidade do Usuário**: Apenas usar o software. A Azure ou o provedor do SaaS gerencia a infraestrutura, plataforma e o próprio aplicativo.
+- **Quando Usar**: Ideal para usuários que precisam de um software pronto para uso, como ferramentas de produtividade, CRM e e-mails.
+- **Exemplo na Azure**: **Microsoft 365**, onde o usuário acessa ferramentas como Outlook, Word e Excel diretamente pela nuvem, sem necessidade de instalação ou atualização.
+
+---
+
+### Resumo Comparativo:
+- **IaaS**: O usuário gerencia o sistema e o aplicativo; a Azure fornece a infraestrutura.
+- **PaaS**: O usuário gerencia apenas o aplicativo e os dados; a Azure gerencia a plataforma e infraestrutura.
+- **SaaS**: A Azure (ou outro provedor) gerencia tudo; o usuário utiliza o software pronto.
+
+# Modelo de Responsabilidade Compartilhada
+
+## Conceito
+O Modelo de Responsabilidade Compartilhada define como a segurança e a gestão dos serviços na nuvem são divididas entre o provedor de nuvem (como Microsoft Azure, AWS) e o cliente.
+
+## Divisão de Responsabilidades
+
+### Responsabilidade do Provedor de Nuvem
+- **Segurança da Infraestrutura**: O provedor de nuvem é responsável por manter e proteger a infraestrutura física (data centers, servidores e rede) que suporta os serviços de nuvem.
+- **Gestão de Rede e Hardware**: Inclui a configuração segura de servidores, redes e hardware, além de monitoramento e manutenção contínua.
+- **Conformidade Global e Regional**: O provedor deve garantir que seus serviços atendam a normas e certificações de conformidade.
+
+### Responsabilidade do Cliente
+- **Segurança dos Dados e Aplicativos**: O cliente é responsável por proteger seus dados, configurando corretamente a segurança dos aplicativos e garantindo a privacidade e criptografia onde necessário.
+- **Configuração de Acesso e Identidades**: O cliente deve gerenciar o acesso aos dados e serviços, usando práticas de controle de identidade e acesso, como autenticação multifatorial.
+- **Gerenciamento de Patches e Atualizações (para IaaS)**: Em modelos como IaaS, o cliente gerencia o sistema operacional e aplicativos, incluindo atualizações e patches de segurança.
+
+## Exemplos de Divisão
+
+| Serviço de Nuvem | Responsabilidade do Provedor | Responsabilidade do Cliente |
+|------------------|-----------------------------|-----------------------------|
+| **IaaS**         | Infraestrutura física e virtualização | Sistema operacional, dados, aplicativos e segurança dos dados |
+| **PaaS**         | Infraestrutura, sistema operacional e plataforma | Aplicativos e dados armazenados na plataforma |
+| **SaaS**         | Infraestrutura, plataforma e aplicativos | Configuração de usuário, segurança de dados e controle de acesso |
+
+---
+
+O Modelo de Responsabilidade Compartilhada ajuda a garantir que ambos, provedor e cliente, saibam claramente suas responsabilidades, melhorando a segurança e a conformidade no uso da nuvem.

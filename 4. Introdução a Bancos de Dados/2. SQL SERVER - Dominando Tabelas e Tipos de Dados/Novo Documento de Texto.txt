@@ -1,0 +1,24 @@
+Data base é uma colenão de dado estruturados, agrupados de forma concisa. É composto de tabelas, procedures, views, etc
+
+SELECT * FROM Clientes -- Seleciona tudo da tabela do banco de dados
+
+WHERE Nome= 'Adam' AND Sobrenome = 'Reynolds' -- Traz apenas Adam Reynolds
+ORDER By Nome, Sobrenome
+
+
+ORDER BY Nome, Sobrenome DESC -- Chama os nomes na ordem descrecente
+
+WHERE Nome LIKE 'G%' --- começa com a letra g
+ORDER BY Nome, Sobrenome
+
+
+WHERE Nome LIKE '%G%' --- todos que começam com g no nome
+ORDER BY Nome, Sobrenome
+
+INSERT INTO Clientes (Nome,Sobrenome,Email,AceitaComunicados, DataCadastro) --Adicionar alguem
+VALUES('Leonardos','Buta', 'email@email.com',1,GETDATE())
+
+
+INSERT INTO Clientes  VALUES('Leonardo','Buta', 'email@email.com', 1, GETDATE())
+
+

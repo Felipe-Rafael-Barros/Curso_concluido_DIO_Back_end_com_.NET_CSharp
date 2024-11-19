@@ -1,0 +1,134 @@
+BANCO 1: Grafos
+
+
+
+Comum em detecção de fraudes, mecanismos de recomendação, redes sociais, sistemas de arquivo, games...
+ex: Neo4j -> https://sandbox.neo4j.com/onboarding
+
+Codigo usado na aula no Neo4j:
+
+CREATE (:Client {name: "Bob Esponja", agr: 28, hobbies: ['Caçar agua-vida, Comer hamburgues']}) -- Criando nó
+MATCH (bob_esponja) RETURN bob_esponja; --Consultando
+
+CREATE(:Client {name: "Lula Molusco", agr: 30, hobbies: ['Tocar clarinete']}) -[:Bloqueado]->(:Cliente {name: "Patrick", hobbies: ['Caçar agua viva']}) -- Criando relacionamento
+
+MATCH (todos) RETURN todos; -- Ver a situação do grafo
+
+CREATE (:Object) --Criando nó
+
+MATCH (lula:Client {name:"Lula Molusco"}), (patrick:Client {name:"Patrick"}) CREATE (lula)-[:Bloqueado]->(patrick)
+
+MATCH (lula:Client {name: "Lula Molusco"})-[relaciona:Bloqueado]-() DELETE relaciona -- EXLCUINDO O RELACIONAMENTO
+
+MATCH (lula:Client {name:"Lula Molusco"}) DELETE lula; --Excluindo nó
+
+MATCH (patrick:Client {name: "Patrick"}) SET patrick.hobbies = ['Caçar agua viva']; -- Adicionando propriedades ao nó
+
+MATCH(patrick:Client {name: "Patrick"}) SET patrick:Client_Premium -- Adicionando uma label
+
+
+
+
+
+
+BANCO 2: Coluna/Familia de colunas
+ 
+USAREMOS CASSANDRA: https://katacoda.com/datastax/courses/cassandra-try-it-out/try-cql
+
+Keyscape: agrupamento de familias de colunas, campara-se ao database 
+Column Family/tabl: agrupamento de colunas, campara-se a table
+Row key: chave que representa uma linha de coluna, campara-se a Primary Key
+Column: representa um valor contendo: Name, Value Timestamp
+Registro de transações: compras, resultados de testes, filmes assistidos e localização mais recente do filme. Rastreando praticmanete qualquer coisa, incluindo status do pedido do pacote e etc
+
+
+
+Codigo usado na aula:
+
+CREATE KEYSPACE fenda_biquini WITH replication = ('class', 'SimpleStrategy', 'replication_factor', 1);
+use fenda_biquini;
+feda_biquini> CREATE COLUMNFAMILY clients (name TEXT PRIMARY KEY, age int);
+SELECT * clients;
+INSERT INTO clients (name, agr) VALUES ('Bob Esponja',38);
+SELECT * clients;
+
+INSERT INTO clients JSON '('name': 'Patrick')';
+SELECT * clients;
+
+SELECT age, WRITETIME(agr) FROM clients;
+
+
+
+SELECT * clients WHERE name='Bob Esponja';
+
+SELECT JSON * from clients;
+
+UPDATE clients SET agr=33 WHERE name='Patrick';
+
+ALTER COLUMNFAMILY clients ADD hobby text;
+select * FROM clients;
+
+UDATE clients SET hobby='Caçar agua viva' WHRE name='Patrick';
+SELECT agr, WRITETIME(age), hobby, WRITETIME(hobby) FROM clients;
+SELECT agr, WRITETIME(age), hobby, WRITETIME(hobby) FROM clients WHERE name='Patrick';
+
+DELETE FROM clients WHERE name='Bob Esponja';
+
+
+
+
+
+BANCO 3: Chaves-valor
+Key-> Única
+Value -> pode ser uma string, int, float ou etc
+
++Bom desempenho em aplicações na nuvem
+-Menor capacidade de busca
+
+Uso: cache, sessão do usuário, carrinhos de compra.
+
+Redis vamos usar na aula: https://redis.io/
+Alto desempenho
+Estrutura de dados na memória
+Versatilidade de uso
+Replicação e persistência
+
+SET user1:name "Bob Esponja"
+GET user1:name
+
+SET user '("name":"Patrick","age":31)'
+GET user
+
+SET user2:name "Lula Molusco" EX 10 -- Faz o dados sumir apos 10s
+GET user2:name
+
+LPUSH user1:hobbies "Caçar agua viva"
+LPUSH user1:hobbies "Comer hamburgues"
+LINDEX user1:hobbies 0
+LINDEX user1:hobbies 1
+
+LRANGE user1:hobbies 0 1
+
+
+TYPE user1:name
+TYPE user1:hobbies
+
+TTL user1:name -> -1 tempo indefinido -- tempo de expiração do elemento
+
+SET user2:name "Patrick" Ex 30
+PERSIST user2:name -- faz o dado continuar sem expirar em 30s
+
+
+
+BANCO 4: Documento
+Dados e documentos autocontidos e auto descritivos. Permite redudância e incosistência.
+Livre de esquemas podendo utilizar JSON, XML entre outros.
+
+Aqui entra o MONGODB
+
+
+
+
+
+
+

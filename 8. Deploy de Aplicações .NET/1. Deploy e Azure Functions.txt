@@ -1,0 +1,96 @@
+Um deploy(ou publicação) é a etapa de disponibilizar um serviço em um local onde o usuário poderá acessar e trabalhar.
+
+No Azure, faremos isso através do App Service.
+
+1)Criar um recurso
+2)SQL DataBase
+3)Grupo de recursos
+ (crie o sistema/mvc)
+4)Detalhes de banco de dados
+Nome do banco de dados: (Contatos)
+Servidor>Criar novo>Nome do servidor(pode ter um grupo de banco de dados)
+configure a localização
+Use autentificação SQL
+Crie o login adm e senha
+---
+Conf banco de dados (configurar o armazenamento)
+Redudancia : local
+
+5) 
+Conectividade de rede : Ponto de conectividade publico
+Regras de FireWall: permitir que serviços e recursos do Azure (SIM)
+Adicionar o endereço Ep do cliente atual : Deixou não mas futuramente vai por sim(o Ip não permitido n entra se tiver em não)
+Finalize e crie
+
+6) Ir para recurso e pode ver o banco de dados
+7) pag inicial>gp de recursos>sistemamvc> vai ter 2(um é o banco e outro o SQL server)
+sistemamvc (vai ter opções diferente do banco de dados)-- ele pode ter varios bancos de dados
+
+
+8) no banco de dados vai ter o nome do servidor(copie)
+Abra o Sql Serve do PC
+No Serve copie o nome
+Na autentificação mude de windowns para SQl Server autentication
+login da criação do banco
+senha da criação do banco
+
+9)Criando recursos web
+Pagina Inicial
+Criar recursos
+--
+Cria Aplicativo Web
+Gp de recursos: Nome do que você tem
+Nome do App(tem que ser único)
+publicar: codigo
+pilha de runtime: .NET
+Sist Op. Linux(gerlamente ) ou windowns
+Região(Geralmente a mesma que criou o banco East US foi a que foi usada na aula)
+Plano de serviço: alterar tamanho : Tem 1Gb 60min gratuito
+--
+Avançar
+Revisar mais criar
+
+10) Alterando a String de conexão
+Ir para recurso
+No App service
+Temos a URL
+
+Falta por o codigo no site, logo:
+Pag inicial>gp de recuros sistemamvc>Acesso o SQL Server>Contatos>Cadeia de conexão>Copia o texto e vai no VSCode
+No JSON do Codigo que fizemos(appsettings.json)
+
+"ConnectionStrings":{
+	"ConexaoPadrao": "textocopiado"
+}
+
+Tem Id e Passaword, ponha essas informações.
+Mude o outro Json tbm
+
+No terminal
+dotnet ef databe update
+
+Baixar a extensão Azure Tools
+
+No lado direito clice que no icone do Azure> Sign in to Azure>Entre na conta> Volte ao VScode
+No App Services
+Sistemamcvdio(o que você criou no app service)>Deploy to web app...> Ready
+Files>(arquivos do projetos)
+Entre no seu site e ja vai ter tudo lá
+
+---------------------------
+
+O que significa serverless?
+É o modelo de desenvolvimento nativo em nuvem para criação e execução de aplicações sem o gerenciamento de servidores
+Os servidores ainda são usados nesse modelo, mas eles são abstraídos do desenvolvimento de aplicações.
+
+Azure Functions
+Implementam o conceito serveless e permite executar códigos na plataforma da Azure, com suporte a diversas linguagens
+Azure functions são escaláveis horizontalmente de forma automática.
+---
+Criando um Azure Function
+Crie a pasta AZ
+Clique no icone do Azure>WORKSPACE(no +)>Create functions>C#>.NET 8> Tamplete(escolha) HTTP trigger witch Open> Nome para ela> nivel de segurança(Anonimos)
+Renomeou para Fuction o program.cs
+F5
+
+

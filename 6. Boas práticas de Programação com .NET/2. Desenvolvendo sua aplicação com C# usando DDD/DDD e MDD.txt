@@ -1,0 +1,14 @@
+O que é DDD(Domain-Driven Design)?
+É uma abordagem de design de software disciplinada que reúne um conjunto de conceitos, técnicas e princípios para construção de softwares baseados em um modelo de domínio.
+
+Principais conceitos do DDD:
+Alinhamento do codigo com o negocio: o contato dos desenvolvedores com os especialistas do dominio é algo essencial quando se faz DDD.
+Se faz necessário o uso de uma lenguagem úbiqua (comum entre todos) para descrever o domínio e suas regras.
+
+Favorecer reutilização
+
+Minimo de acoplamento
+
+Independendcia da tecnologia
+
+O que é MDD?

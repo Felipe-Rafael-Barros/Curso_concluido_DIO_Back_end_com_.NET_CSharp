@@ -1,0 +1,33 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Introdução a APIs com C#.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Introdução a APIs com C#.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Introdução a APIs com C#.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Introdução a APIs com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Introdução a APIs com C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.csproj.AssemblyReference.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets\msbuild.Introdução a APIs com C#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets\msbuild.build.Introdução a APIs com C#.props
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Introdução a APIs com C#.props
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Introdução a APIs com C#.props
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\scopedcss\bundle\Introdução a APIs com C#.styles.css
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdu_.D23513D7.Up2Date
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\refint\Introdução a APIs com C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\Introdução a APIs com C#.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\CShrap\5. Constuindo APIs com .NET C#\Introdução a APIs com C#\obj\Debug\net8.0\ref\Introdução a APIs com C#.dll

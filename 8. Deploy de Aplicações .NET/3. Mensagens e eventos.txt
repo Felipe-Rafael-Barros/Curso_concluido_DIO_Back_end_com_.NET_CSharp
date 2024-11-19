@@ -1,0 +1,12 @@
+Mensagem é composta por um pacote com dados brutos(XML,Json,Bytes)
+
+Eventos é uma notificação leve de uma condição ou de uma alteração de estados.
+
+Filas armazenam mensagens até que o aplicativo de recebimento esteja disponível para recebe-la e processala
+Usamos a fila para:
+Transferencia de dados
+Separação de aplicativos
+Amortecimento de carga
+Balanceamento de carga
+e etc
+

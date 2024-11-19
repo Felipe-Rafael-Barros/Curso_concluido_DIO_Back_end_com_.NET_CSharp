@@ -1,0 +1,29 @@
+Caracteristicas:
+open source
+alta performance
+schema-free
+Utiliza json para armazenamento dos dados
+Suporte a indices
+Auto-Sharding - escalamento horizontal
+Map-Reduce
+GridFS
+
+Estruturação:
+Document ==> Tupla/Registro
+Collection==> Tabela
+Embedding/linking ==> Join
+
+Quando usar?
+Grande volume de dados
+Dados não necessariamente estruturados
+
+Quando não usar?
+Necessidade de relacionamento/joins
+Propriedades ACID e transações são importantes
+Curiosidade: Diversas entidades de pagamento não homologam sistemas cujos dados financeiros dos clientes não estejam em bancos de dados relacionais tradicionais
+
+
+Instalação: Docker
+
+
+

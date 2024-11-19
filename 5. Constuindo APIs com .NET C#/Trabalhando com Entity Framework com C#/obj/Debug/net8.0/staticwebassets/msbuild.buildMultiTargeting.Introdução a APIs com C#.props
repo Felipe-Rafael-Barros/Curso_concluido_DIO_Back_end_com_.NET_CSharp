@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Introdução a APIs com C#.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\bin\Debug\net8.0\3. Operadores Lógicos.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\bin\Debug\net8.0\3. Operadores Lógicos.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\bin\Debug\net8.0\3. Operadores Lógicos.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\bin\Debug\net8.0\3. Operadores Lógicos.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\bin\Debug\net8.0\3. Operadores Lógicos.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\refint\3. Operadores Lógicos.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\3. Operadores Lógicos.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\Sintaxe Básica com .NET C#\2. Tipos de Operadores em C#\3. Operadores Lógicos\obj\Debug\net8.0\ref\3. Operadores Lógicos.dll

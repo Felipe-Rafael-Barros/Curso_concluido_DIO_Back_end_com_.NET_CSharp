@@ -1,0 +1,14 @@
+API( Application Programming Interface) é uma forma de comunicação entre computadores ou programas de computadores.
+Em outras palavras, é um software que fornece informações para outro software.
+
+EXemplos:
+Nager.Date: https://date.nager.at -> Retorna os Feriados dos paises
+Dogs: https://dog.ceo/dog-api
+
+https://date.nager.at/api/v3/publicholidays/2024/AT -- ano, pais.
+GET /api/v3/PublicHolidays/{Year}/{CountryCode}
+
+
+CRIANDO API
+dotnet new webapi --criar API
+dotnet watch run  --Observar o projeto da API

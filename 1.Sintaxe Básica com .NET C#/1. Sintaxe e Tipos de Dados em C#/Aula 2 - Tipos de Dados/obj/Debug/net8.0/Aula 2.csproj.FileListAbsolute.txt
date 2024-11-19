@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\bin\Debug\net8.0\Aula 2.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\bin\Debug\net8.0\Aula 2.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\bin\Debug\net8.0\Aula 2.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\bin\Debug\net8.0\Aula 2.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\bin\Debug\net8.0\Aula 2.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\refint\Aula 2.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\Aula 2.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\1. Sintaxe e Tipos de Dados em C#\Aula 2 - Tipos de Dados\obj\Debug\net8.0\ref\Aula 2.dll

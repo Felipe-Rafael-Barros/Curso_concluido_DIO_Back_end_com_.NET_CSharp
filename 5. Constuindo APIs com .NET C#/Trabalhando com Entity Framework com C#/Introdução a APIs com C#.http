@@ -1,0 +1,6 @@
+@Introdução_a_APIs_com_C__HostAddress = http://localhost:5110
+
+GET {{Introdução_a_APIs_com_C__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

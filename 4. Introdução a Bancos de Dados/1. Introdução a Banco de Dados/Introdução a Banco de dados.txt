@@ -1,0 +1,20 @@
+O que é um Bando de dados?
+É uma coleção organizada de informações (ou dados) estruturadas, normalmente armazenadas eletronicamente em um sistema de computados.
+
+
+Tipos de bancos de dados:
+
+Relacional -> O mais utilizado, armazenando em dados estruturados, sendo organizado em tabelas, com linhas e colunas, que se relacionam entre si.
+ex: SQL Server, ORACLE/DATABASe , MySQL(gratuito)
+
+
+Não Relacional -> Os dados não são armazenados em tabelas, e sim são armazenados de maneira não estruturadas ou semi-estruturadas.
+ex: mongoDB
+
+Tipos de dados:
+
+
+Entendendo o DBMS(Database Management System):
+É um software utilizado para acessar, manipular e monitorar um sistema de banco de dados.
+
+

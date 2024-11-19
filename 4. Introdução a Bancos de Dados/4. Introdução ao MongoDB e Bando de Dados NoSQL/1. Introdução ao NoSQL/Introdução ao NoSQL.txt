@@ -1,0 +1,24 @@
+Not Only SQL x NO SQL
+
+Banco de dados não relacionais.
+
+Os bancos de dados relacionais tem como propriedades:
+- o aumento da capacidade para um único recurso
+- Processador, memoria e disco rígido (depende muito do seu hardware para performance)
+- Replicas de dados APENAS PARA LEITURA
+- 
+
+
+
+Os bancos de dados não relacionais tem como propriedades:
+- Particionando os dados (sharding) entre os nós é o mais conhecido
+- Maior desempenho nas aplicações em um determindo tempo
+
+
+Vantagem dos bancos de dados não relacionais:
+- Flexibilidade
+- Escalabilidade
+- Alta performance
+
+
+

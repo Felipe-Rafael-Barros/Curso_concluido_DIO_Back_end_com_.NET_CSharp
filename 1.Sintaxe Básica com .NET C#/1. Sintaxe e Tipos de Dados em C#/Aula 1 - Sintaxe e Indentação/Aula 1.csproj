@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">        <!-- csproj é o arq de projeto do C#  -->
+                                         <!-- nele temos inf discritivas p/ o projeto(meta dados)  -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>              <!-- Tipo de saida(arv exe ou bibliotecas(classes))  -->
+    <TargetFramework>net8.0</TargetFramework> <!-- Versão do .NET  -->
+    <RootNamespace>Aula_1</RootNamespace>     <!--   -->
+    <ImplicitUsings>enable</ImplicitUsings>   <!-- Opções do projeto  -->
+    <Nullable>enable</Nullable>               <!--   -->
+  </PropertyGroup>
+
+</Project>
+
+
+<!-- Muitas vezes você não mexe nesse arquivo  -->

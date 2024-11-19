@@ -1,0 +1,14 @@
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\bin\Debug\net8.0\1. Tipos especiais no C#.exe
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\bin\Debug\net8.0\1. Tipos especiais no C#.deps.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\bin\Debug\net8.0\1. Tipos especiais no C#.runtimeconfig.json
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\bin\Debug\net8.0\1. Tipos especiais no C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\bin\Debug\net8.0\1. Tipos especiais no C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.AssemblyInfoInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.AssemblyInfo.cs
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\refint\1. Tipos especiais no C#.dll
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.pdb
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\1. Tipos especiais no C#.genruntimeconfig.cache
+C:\Users\Felipe Barros\Desktop\VsCode\Dio\C#\2.Dados e Listas com .NET C#\6. Tipos Especiais no C#\1. Tipos especiais no C#\obj\Debug\net8.0\ref\1. Tipos especiais no C#.dll
