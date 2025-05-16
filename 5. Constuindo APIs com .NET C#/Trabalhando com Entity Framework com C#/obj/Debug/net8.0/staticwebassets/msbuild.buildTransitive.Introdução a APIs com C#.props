@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Introdução a APIs com C#.props" />
-</Project>

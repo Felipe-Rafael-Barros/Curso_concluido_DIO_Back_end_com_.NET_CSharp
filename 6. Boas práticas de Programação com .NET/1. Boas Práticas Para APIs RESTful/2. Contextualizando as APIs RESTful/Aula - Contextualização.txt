@@ -1,2 +1,0 @@
-As APIs RESTful são uma arquitetura de software utilizada para criar serviços web escaláveis. Linguagem simples onde sistemas conseguem se comunicar usando a web.
-
